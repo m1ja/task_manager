@@ -20,7 +20,7 @@ cd task_manager
 
 2.  Установка зависимостей:
 ```bash
-pip install -r requirements.txt
+pip install -r req.txt
 ```
 
 3.  Применение миграций:
